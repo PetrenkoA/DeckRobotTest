@@ -1,0 +1,11 @@
+C:\Users\Banduin\Documents\Visual Studio 2013\Projects\DeckRobotTest\DeckRobotTest\bin\Debug\DeckRobotTest.dll
+C:\Users\Banduin\Documents\Visual Studio 2013\Projects\DeckRobotTest\DeckRobotTest\bin\Debug\DeckRobotTest.pdb
+C:\Users\Banduin\Documents\Visual Studio 2013\Projects\DeckRobotTest\DeckRobotTest\bin\Debug\DeckRobotTest.dll.manifest
+C:\Users\Banduin\Documents\Visual Studio 2013\Projects\DeckRobotTest\DeckRobotTest\bin\Debug\DeckRobotTest.vsto
+C:\Users\Banduin\Documents\Visual Studio 2013\Projects\DeckRobotTest\DeckRobotTest\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\Banduin\Documents\Visual Studio 2013\Projects\DeckRobotTest\DeckRobotTest\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+C:\Users\Banduin\Documents\Visual Studio 2013\Projects\DeckRobotTest\DeckRobotTest\obj\Debug\DeckRobotTest.Properties.Resources.resources
+C:\Users\Banduin\Documents\Visual Studio 2013\Projects\DeckRobotTest\DeckRobotTest\obj\Debug\DeckRobotTest.csproj.GenerateResource.Cache
+C:\Users\Banduin\Documents\Visual Studio 2013\Projects\DeckRobotTest\DeckRobotTest\obj\Debug\DeckRobotTest.dll
+C:\Users\Banduin\Documents\Visual Studio 2013\Projects\DeckRobotTest\DeckRobotTest\obj\Debug\DeckRobotTest.pdb
+C:\Users\Banduin\Documents\Visual Studio 2013\Projects\DeckRobotTest\DeckRobotTest\obj\Debug\DeckRobotTest.TestRibbon.resources
